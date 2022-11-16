@@ -3,3 +3,5 @@ npm install -g @angular/cli
 ng new your_app
 
 ng s -o atau npm start
+
+ng add @angular/material
